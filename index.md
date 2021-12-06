@@ -3,5 +3,5 @@
 
 ## My project
 
-+ [Tetris](https://limao90.github.io/TetrisSFML)
-+ [Rasterizer](https://limao90.github.io/Rasterizer)
++ [Tetris](https://lucas-guerrero.github.io/TetrisSFML)
++ [Rasterizer](https://lucas-guerrero.github.io/Rasterizer)
